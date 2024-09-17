@@ -12,4 +12,4 @@
 
 [MapReduce example](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/lab1/SPBD_Labs_mapreduce1.ipynb)
 
-[MapReduce exercise](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/lab1/SPBD_Labs_mapreduce1_exercise.ipynb)
+[MapReduce exercise](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab1/SPBD_Labs_mapreduce1_exercise.ipynb)
