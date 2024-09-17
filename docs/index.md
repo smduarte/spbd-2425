@@ -1,8 +1,10 @@
 # Announcements
 
-Classes will start on the 17th of September.
+Classes will start on the 18th of September.
 
-+ Test# 1 - TBD 
-+ Test# 2 - TBD
+Tentative Dates
++ Test# 1 - October 22 
++ Test# 2 - December 2
 
-+ Project Assignment - TBD
++ Project Assignment #1 - November 3
++ Project Assignment #2 - December 8
