@@ -10,6 +10,6 @@
 
 ## Materials:
 
-[MapReduce example](SPBD_Labs_mapreduce1.ipynb)
+[MapReduce example](notebooks)
 
-[MapReduce exercise](SPBD_Labs_mapreduce1_exercise.ipynb)
+[MapReduce exercise](notebooks)
