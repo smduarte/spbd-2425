@@ -2,8 +2,6 @@
 
 ## Objectives
 
-+ [MrJob](https://mrjob.readthedocs.io/en/latest/index.html) library for MapReduce in pure Python;
-
 + MapReduce Programming Exercises.
 
 ## Materials:
