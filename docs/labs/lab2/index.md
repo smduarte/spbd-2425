@@ -2,11 +2,9 @@
 
 ## Objectives
 
-+ [MrJob](https://mrjob.readthedocs.io/en/latest/index.html) library for MapReduce in pure Python;
-
 + MapReduce Programming Exercises.
 
 ## Materials:
-[MrJob + MapReduce example](https://github.com/smduarte/spbd-2425/blob/main/lab2/SPBD_Labs_mapreduce2.ipynb)
+[MrJob + MapReduce example](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab2/SPBD_Labs_mapreduce2.ipynb)
 
-[Exercises](https://github.com/smduarte/spbd-2526/blob/main/lab2/SPBD_Labs_mapreduce2_exercise.ipynb)
+[Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab2/SPBD_Labs_mapreduce2_exercise.ipynb)
