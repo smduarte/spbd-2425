@@ -5,7 +5,6 @@
 + [Spark Core](https://spark.apache.org/docs/latest/api/python/) programming, using Python (Pyspark);
 
 ## Materials:
-[Solution to Lab2 Exercise](https://github.com/smduarte/spbd-2324/blob/main/lab3/SPBD_Labs_mapreduce2_exercise_solution.ipynb)
+[Solution to Lab2 Exercise](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab3/SPBD_Labs_mapreduce2_exercise_solution.ipynb
 
-
-[Exercises](https://github.com/smduarte/spbd-2324/blob/main/lab3/SPBD_Labs_spark1_exercise.ipynb)
+[Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab3/SPBD_Labs_spark1_exercise.ipynb
