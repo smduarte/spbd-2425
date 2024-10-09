@@ -1,11 +1,10 @@
-# Lab 4
+# Lab 3
 
 ## Objectives
 
-+ [Spark Dataframes](https://spark.apache.org/docs/latest/api/python/) programming, using Python Spark Dataframes (Pyspark).
++ [Spark Core](https://spark.apache.org/docs/latest/api/python/) programming, using Python (Pyspark);
 
 ## Materials:
-[Solution to Lab3 Exercises](https://github.com/smduarte/spbd-2324/blob/main/lab4/SPBD_Labs_spark1_exercise_solution.ipynb)
+[Solution to Lab2 Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab3/SPBD_Labs_mapreduce2_exercise_solution.ipynb)
 
-
-[Exercises](https://github.com/smduarte/spbd-2324/blob/main/lab4/SPBD_Labs_spark2_exercise.ipynb)
+[Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab3/SPBD_Labs_spark1_exercise.ipynb)
