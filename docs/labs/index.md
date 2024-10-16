@@ -10,5 +10,5 @@
 -->
 # Project Assignment
 
-* [Project #1](https://colab.research.google.com/github/spbd-2425/blob/main/docs/labs/projs/spbp2425_tp1.ipynb)
+* [Project #1](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/projs/spbp2425_tp1.ipynb)
 
