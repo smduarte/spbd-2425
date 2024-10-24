@@ -6,6 +6,7 @@
 
 ## Materials:
 [SQL Cheat-Sheet](SQL-cheat-sheet.pdf)
+
 [Solution to Lab4 Exercises](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/lab5/SPBD_Labs_spark2_exercise_solution.ipynb)
 
 
