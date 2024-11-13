@@ -6,6 +6,9 @@
 * [Lab 4](lab4) - Spark Dataframes;
 * [Lab 5](lab5) - Spark SQL/SQL;
 * [Lab 6](lab6) - Project Support;
+* [Lab 7](lab6) - Project Support;
+* [Lab 8](lab6) - Project Support;
+* [Lab 9](lab9) - Spark Streaming;
 
 <!--
 -->
