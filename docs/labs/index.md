@@ -9,6 +9,7 @@
 * [Lab 7](lab6) - Project Support;
 * [Lab 8](lab6) - Project Support;
 * [Lab 9](lab9) - Spark Streaming;
+* [Lab 10](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/projs/spbd2425_tp2.ipynb) - Project Support;
 
 <!--
 -->
