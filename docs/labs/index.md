@@ -16,4 +16,4 @@
 
 * [Project #1](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/projs/spbp2425_tp1.ipynb)
 
-* [Project #2](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/projs/spbp2425_tp2.ipynb)
+* [Project #2](https://colab.research.google.com/github/smduarte/spbd-2425/blob/main/docs/labs/projs/spbd2425_tp2.ipynb)
