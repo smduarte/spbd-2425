@@ -9,4 +9,6 @@ Tentative Dates
 + Project Assignment #1 - November 10
 + Project Assignment #2 - December 6
 
-+ [Discord Invite](https://discord.gg/SY2eEZcdMr) 
++ [Discord Invite](https://discord.gg/SY2eEZcdMr)
+
++ [Form for Project #2 Delivery](https://forms.gle/v9tWXCvVcLbhUgLc9)
